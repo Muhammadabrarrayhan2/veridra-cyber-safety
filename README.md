@@ -254,9 +254,9 @@ Veridra is a **decision-support and educational tool**. It is not an official cy
 
 *Add screenshots here once the UI is captured.*
 
-- `docs/screenshots/landing.png`
-- `docs/screenshots/analyze-result.png`
-- `docs/screenshots/insights.png`
+- `![Landing Page](Docs/screenshots/Landing.jpeg)`
+- `![Analyze Result](Docs/screenshots/analyze-result.jpeg)`
+- `![Safety Insights](Docs/screenshots/insight.jpeg)`
 
 ## Author
 
