@@ -259,8 +259,8 @@ Veridra is a **decision-support and educational tool**. It is not an official cy
 ## Author
 
 *Muhammad Abrar Rayhan*
-*Telkom University Jakarta*
-*Machine Learning and Artificial inteligence enthusiast*
+Telkom University Jakarta
+Machine Learning and Artificial inteligence enthusiast
 ## License
 
 *MIT License*
