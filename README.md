@@ -2,7 +2,7 @@
 
 > **A public cyber safety platform for suspicious messages, unsafe links, and fake job offers.**
 
-Veridra takes the digital content an ordinary person is already unsure about — a strange SMS, a suspicious URL, an aggressive recruiter DM — and returns a clear risk verdict, the specific red flags that triggered it, and the exact next steps they should take. It is explainable by design, evidence-based in its reasoning, and careful never to overclaim certainty or take action on anyone's behalf.
+Veridra takes the digital content an ordinary person is already unsure about, a strange SMS, a suspicious URL, an aggressive recruiter DM, and returns a clear risk verdict, the specific red flags that triggered it, and the exact next steps they should take. It is explainable by design, evidence-based in its reasoning, and careful never to overclaim certainty or take action on anyone's behalf.
 
 ---
 
@@ -258,8 +258,9 @@ Veridra is a **decision-support and educational tool**. It is not an official cy
 
 ## Author
 
-*Add author name, role, and contact here.*
-
+*Muhammad Abrar Rayhan*
+Telkom University Jakarta
+Machine Learning and Artificial inteligence enthusiast
 ## License
 
-*Add license here (e.g. MIT).*
+*MIT License*
